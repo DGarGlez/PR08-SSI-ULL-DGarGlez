@@ -1,3 +1,6 @@
+//
+// REPOSITORIO: https://github.com/DGarGlez/PR08-SSI-ULL-DGarGlez.git
+//
 #include<iostream>
 
 // El exponente es xA o xB según se llame a la función y se modifica en la columna central
